@@ -4,5 +4,5 @@ My name is Rocco Peri and I am a current student studying financial economics an
 - **Email**: [jperi@nd.edu](jperi@nd.edu)
 - **LinkedIn**: [https://www.linkedin.com/in/jonathan-peri-s44/](https://www.linkedin.com/in/jonathan-peri-s44/)
 - **Technical Skills**: Programming (Python, RStudio, STATA, MATLAB, Quarto), Regression Analysis (VAR, ARMA, LP), Data Visualization (Jupyter, Quarto)
-- **Resume**(https://github.com/roccoperi/roccoperi/blob/main/Jonathan%20Peri%20Resume%20(2).pdf)
+- [Resume](https://github.com/roccoperi/roccoperi/blob/main/Jonathan%20Peri%20Resume%20(2).pdf)
   
