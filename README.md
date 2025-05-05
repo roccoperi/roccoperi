@@ -10,9 +10,9 @@ My name is Rocco Peri, and I am a current student studying financial economics a
 - **BA in Financial Economics and Econometrics**, The University of Notre Dame
 
 ## Professional Work
-- **Senior Legal Associate** - Jubilee Initiative for Financial inclusion (August 2024 - Present)
+- **Senior Legal Associate** - Jubilee Initiative for Financial Inclusion (August 2024 - Present)
 - **Judicial Intern** - New Jersey Superior Courts (May 2024 - August 2024)
-- **Finance Intern** - LONSIN CAPITAL Limited (Janurary 2024 - May 2024)
+- **Finance Intern** - LONSIN CAPITAL Limited (January 2024 - May 2024)
 - **Teaching Assistant** - The University of Notre Dame (August 2023 0- December 2023)
 
 ## Awards and Certifications
