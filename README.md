@@ -3,11 +3,15 @@ My name is Rocco Peri, and I am a current student studying financial economics a
 
 - **Email**: [jperi@nd.edu](jperi@nd.edu)
 - **LinkedIn**: [https://www.linkedin.com/in/jonathan-peri-s44/](https://www.linkedin.com/in/jonathan-peri-s44/)
-- **Technical Skills**: Programming (Python, RStudio, STATA, MATLAB), Regression Analysis (VAR, ARMA, LP), Data Visualization (Jupyter, Quarto)
 - **[Resume](https://github.com/roccoperi/roccoperi/blob/main/Jonathan%20Peri%20Resume%20(2).pdf)**
 
 ## Education
 - **BA in Financial Economics and Econometrics**, The University of Notre Dame
+
+## Technical Skills
+- **Programming Languages**: Python, RStudio, STATA, MATLAB
+- **Regression Analysis**: VAR, ARMA, LP, DL
+- **Data Visualization**: Jupyter, Quarto, Streamlit
 
 ## Professional Work
 - **Senior Legal Associate** - Jubilee Initiative for Financial Inclusion (August 2024 - Present)
